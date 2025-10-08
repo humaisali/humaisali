@@ -54,7 +54,7 @@ Currently pursuing my **BS in Software Engineering**, I’m building my way from
 
 ## 🌍 Connect With Me  
 
-[![LinkedIn](www.linkedin.com/in/humaisaliskytechdeveloper)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/humaisaliskytechdeveloper)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-github-username)  
 
 💬 Feel free to reach out — I love discussing **web development**, **AI**, and **innovative tech ideas!**
