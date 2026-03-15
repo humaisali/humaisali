@@ -1,31 +1,36 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:00d4ff&height=220&section=header&text=Humais%20Ali&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20·%20SE%20Student%20·%20AI%2FML%20Explorer&descAlignY=60&descSize=19&animation=twinkling&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:00d4ff&height=220&section=header&text=Humais%20Ali&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%C2%B7%20SE%20Student%20%C2%B7%20AI%2FML%20Explorer&descAlignY=60&descSize=19&animation=twinkling&fontAlign=50" />
 
-<!-- ✅ Fixed Typing SVG - correct URL format (? not &) -->
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=🚀+Full+Stack+Web+Developer;🎓+Software+Engineering+%40+UET+Mardan;🧠+Exploring+AI+%26+Machine+Learning;⚡+MERN+Stack+·+Next.js+·+Node.js+·+Python;💡+Building+SkyTech+Developers;🔥+LeetCode+Grinder+%7C+Problem+Solver" alt="Typing SVG" />
+<br/>
+
+<!-- ✅ FIXED Typing SVG — correct base URL, no emoji in lines, semicolons as separators -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Web+Developer;Software+Engineering+%40+UET+Mardan;Exploring+AI+%26+Machine+Learning;MERN+Stack+%7C+Next.js+%7C+Node.js+%7C+Python;Building+SkyTech+Developers;LeetCode+Grinder+%7C+Problem+Solver" alt="Typing SVG" />
+</a>
 
 <br/><br/>
 
-<!-- ✅ Upgraded Badges — dark bg + brand accent color, sleek flat-square style -->
+<!-- ✅ STUNNING Social Buttons — large icon cards, NOT boring shields badges -->
 <a href="https://linkedin.com/in/humaisali" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Humais%20Ali-0a66c2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" height="28"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
 </a>
-&nbsp;
 <a href="https://github.com/humaisali" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-humaisali-ffffff?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" height="28"/>
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="36" />
 </a>
-&nbsp;
 <a href="mailto:humaisali@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-humaisali%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" height="28"/>
+  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="36" />
 </a>
-&nbsp;
 <a href="https://leetcode.com/humaisali" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-Grinder-ffa116?style=flat-square&logo=leetcode&logoColor=white&labelColor=0d1117" height="28"/>
+  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" height="36" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=humaisali&style=flat-square&color=00d4ff&label=Profile+Views&labelColor=0d1117" height="28"/>
+<a href="https://skytech.dev" target="_blank">
+  <img src="https://img.shields.io/badge/SkyTech_Devs-%2300D4FF.svg?style=for-the-badge&logo=rocket&logoColor=black" height="36" />
+</a>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=humaisali&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" height="28" />
 
 </div>
 
@@ -43,7 +48,7 @@ const humaisAli = {
   stack       : ["MERN", "Next.js", "Node.js", "Python", "MySQL"],
   currentFocus: "Merging AI/ML intelligence into scalable web apps",
   hobbies     : ["LeetCode Grinding ⚔️", "Side Projects", "ML Research"],
-  funFact     : "I debug with console.log and I'm not ashamed 😄",
+  funFact     : "I debug with console.log and I am not ashamed 😄",
 };
 ```
 
@@ -102,8 +107,6 @@ const humaisAli = {
 
 ## 📊 GitHub Stats
 
-<!-- ✅ Clean structured table layout — no random floating images -->
-
 <div align="center">
 
 <table width="100%">
@@ -145,10 +148,10 @@ const humaisAli = {
 ## 🌱 Currently Leveling Up
 
 ```
-📌  Machine Learning         ████████████░░░░  75%  Active in coursework & projects
-📌  Next.js / Full Stack     ███████████░░░░░  70%  Building real-world apps
-📌  LeetCode DSA             ████████░░░░░░░░  55%  Daily grind mode ON ⚔️
-📌  AI Integration in Web    ██████░░░░░░░░░░  40%  Bridging ML + Web Dev
+  Machine Learning       ████████████░░░░  75%   Active in coursework & projects
+  Next.js / Full Stack   ███████████░░░░░  70%   Building real-world apps
+  LeetCode DSA           ████████░░░░░░░░  55%   Daily grind mode ON
+  AI + Web Integration   ██████░░░░░░░░░░  40%   Bridging ML with Web Dev
 ```
 
 ---
@@ -167,16 +170,18 @@ const humaisAli = {
 
 *Open to collaborations, freelance projects, and tech conversations!*
 
+<br/>
+
 <a href="https://linkedin.com/in/humaisali">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:humaisali@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-%23ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=110&section=footer" />
 
 </div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=110&section=footer" />
