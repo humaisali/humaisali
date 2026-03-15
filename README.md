@@ -13,36 +13,31 @@
 <br/><br/>
 
 <!-- ✅ STUNNING Social Buttons — large icon cards, NOT boring shields badges -->
-<a href="https://linkedin.com/in/humaisali" target="_blank">
+<a href="www.linkedin.com/in/humaisaliskytechdeveloper" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
 </a>
 <a href="https://github.com/humaisali" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="36" />
 </a>
-<a href="mailto:humaisali@gmail.com" target="_blank">
+<a href="mailto:humaisali.uetm282@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="36" />
 </a>
-<a href="https://leetcode.com/humaisali" target="_blank">
+<a href="https://leetcode.com/u/Humais_Ali/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" height="36" />
 </a>
-<a href="https://skytech.dev" target="_blank">
+<a href="https://skytech-developers.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/SkyTech_Devs-%2300D4FF.svg?style=for-the-badge&logo=rocket&logoColor=black" height="36" />
 </a>
-
-<br/>
-<img src="https://komarev.com/ghpvc/?username=humaisali&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117" height="28" />
-
 </div>
 
 ---
 
-## ⚡ About Me
+## About Me
 
 ```typescript
 const humaisAli = {
   name        : "Humais Ali",
-  nickname    : "Hummy 🚀",
-  role        : ["Full Stack Web Developer", "SE Student", "AI/ML Explorer"],
+  role        : ["Full Stack Web Developer", "Software Engineering Student", "AI/ML Explorer"],
   university  : "UET Mardan — B.Sc. Software Engineering (6th Sem)",
   company     : "SkyTech Developers",
   stack       : ["MERN", "Next.js", "Node.js", "Python", "MySQL"],
@@ -54,23 +49,23 @@ const humaisAli = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-**🌐 Frontend**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
 
-**⚙️ Backend & Databases**
+**Backend & Databases**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb&theme=dark" />
 
-**🤖 AI / ML**
+**AI / ML**
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 
-**🔧 Dev Tools**
+**Dev Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
 
@@ -82,24 +77,24 @@ const humaisAli = {
 
 <div align="center">
 
-| 🏫 University | 📚 Degree | 📅 Status |
+| University | Degree | Status |
 |:---|:---|:---|
-| **UET Mardan** | B.Sc. Software Engineering | **6th Semester 🔥** |
+| **UET Mardan** | **B.Sc. Software Engineering** | **6th Semester** |
 
 </div>
 
 <details>
-<summary><b>📘 View Full Coursework</b></summary>
+<summary><b>View Full Coursework</b></summary>
 
 <br/>
 
 | Category | Subjects |
 |:---|:---|
-| **Programming** | C, C++, OOP, Data Structures & Algorithms |
+| **Programming** | C, C++, OOP, Data Structures & Algorithms, Design And Analysis of Algorithm |
 | **Systems** | Operating Systems (Linux), CCN |
-| **Software Engg.** | Intro to SE, SDA, SCD |
+| **Software Engg.** | Intro to Software Engineering, SDA, SCD |
 | **Data** | Database Systems (SQL) |
-| **6th Sem (Current)** | Software Project Management · Web Engineering · Machine Learning · HCI · Entrepreneurship · SQE |
+| **6th Sem (Current)** | Software Project Management · Web Engineering · Machine Learning · Software Quality Engineering |
 
 </details>
 
@@ -137,7 +132,7 @@ const humaisAli = {
 
 ---
 
-## 🔥 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumaisAli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0a84ff&point=ff6b35&area=true&area_color=0a2a4a" width="95%" />
@@ -145,7 +140,7 @@ const humaisAli = {
 
 ---
 
-## 🌱 Currently Leveling Up
+## Currently Leveling Up
 
 ```
   Machine Learning       ████████████░░░░  75%   Active in coursework & projects
@@ -156,7 +151,7 @@ const humaisAli = {
 
 ---
 
-## 💬 Dev Quote
+## Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -164,7 +159,7 @@ const humaisAli = {
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -172,11 +167,11 @@ const humaisAli = {
 
 <br/>
 
-<a href="https://linkedin.com/in/humaisali">
+<a href="www.linkedin.com/in/humaisaliskytechdeveloper">
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
-<a href="mailto:humaisali@gmail.com">
+<a href="mailto:humaisali.uetm282@gmail.com">
   <img src="https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
 
