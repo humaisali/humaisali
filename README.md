@@ -13,7 +13,7 @@
 <br/><br/>
 
 <!-- ✅ STUNNING Social Buttons — large icon cards, NOT boring shields badges -->
-<a href="www.linkedin.com/in/humaisaliskytechdeveloper" target="_blank">
+<a href="[www.linkedin.com/in/humaisaliskytechdeveloper](https://www.linkedin.com/in/humaisaliskytechdeveloper)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
 </a>
 <a href="https://github.com/humaisali" target="_blank">
