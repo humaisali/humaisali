@@ -124,13 +124,7 @@ const humaisAli = {
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HumaisAli&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6" />
-</div>
-
----
 
 ## Contribution Graph
 
