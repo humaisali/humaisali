@@ -138,7 +138,7 @@ const humaisAli = {
 
 ```
   Machine Learning       ████████████░░░░  75%   Active in coursework & projects
-  React.js / Full Stack   ███████████░░░░░  70%   Building real-world apps
+  React.js/ Full Stack   ███████████░░░░░  70%   Building real-world apps
   LeetCode DSA           ████████░░░░░░░░  55%   Daily grind mode ON
   AI + Web Integration   ██████░░░░░░░░░░  40%   Bridging ML with Web Dev
 ```
