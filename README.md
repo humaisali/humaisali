@@ -1,85 +1,147 @@
 <div align="center">
 
-<!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2a4a,100:00d4ff&height=220&section=header&text=Humais%20Ali&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Dev%20%C2%B7%20SE%20Student%20%C2%B7%20AI%2FML%20Explorer&descAlignY=60&descSize=19&animation=twinkling&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050709,50:0a2a4a,100:0a84ff&height=200&section=header&text=Humais%20Ali&fontSize=68&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Engineer%20%E2%80%A2%20SE%20Student&descAlignY=62&descSize=18&fontAlign=50" />
+
+</div>
 
 <br/>
 
-<!-- ✅ FIXED Typing SVG — correct base URL, no emoji in lines, semicolons as separators -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=750&height=60&lines=Full+Stack+Web+Developer;Software+Engineering+%40+UET+Mardan;Exploring+AI+%26+Machine+Learning;MERN+Stack+%7C+Next.js+%7C+Node.js+%7C+Python;Building+SkyTech+Developers;LeetCode+Grinder+%7C+Problem+Solver" alt="Typing SVG" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&height=50&lines=Building+AI-Powered+Web+Applications;MERN+Stack+%7C+Next.js+%7C+Gemini+AI;Software+Engineering+%40+UET+Mardan;Full+Stack+Developer+%40+SkyTech+Developers;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
+</div>
 
-<br/><br/>
+<br/>
 
-<!-- ✅ STUNNING Social Buttons — large icon cards, NOT boring shields badges -->
-<a href="https://www.linkedin.com/in/humaisaliskytechdeveloper" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="36" />
-</a>
-<a href="https://github.com/humaisali" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="36" />
-</a>
-<a href="mailto:humaisali.uetm282@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="36" />
-</a>
-<a href="https://leetcode.com/u/Humais_Ali/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" height="36" />
-</a>
-<a href="https://skytech-developers.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/SkyTech_Devs-%2300D4FF.svg?style=for-the-badge&logo=rocket&logoColor=black" height="36" />
-</a>
+<div align="center">
+  <a href="https://humaissoftneer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-humaissoftneer.vercel.app-0A84FF?style=for-the-badge&logo=vercel&logoColor=white" height="32"/>
+  </a>  <a href="https://www.linkedin.com/in/humaisaliskytechdeveloper" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32"/>
+  </a>
+
+  <a href="mailto:humaisali.uetm282@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="32"/>
+  </a>
+
+
 </div>
 
 ---
 
-## About Me
-
 ```typescript
 const humaisAli = {
-  name        : "Humais Ali",
-  role        : ["Full Stack Web Developer", "Software Engineering Student", "AI/ML Explorer"],
-  university  : "UET Mardan — B.Sc. Software Engineering (6th Sem)",
-  company     : "SkyTech Developers",
-  stack       : ["MERN", "Next.js", "Node.js", "Python", "MySQL"],
-  currentFocus: "Merging AI/ML intelligence into scalable web apps",
-  hobbies     : ["LeetCode Grinding ⚔️", "Side Projects", "ML Research"],
-  funFact     : "I debug with console.log and I am not ashamed 😄",
+  location  : "Mardan, Pakistan",
+  role      : "MERN Stack Developer",
+  university: "UET Mardan - B.Sc. Software Engineering (6th Semester)",
+  company   : "SkyTech Developers",
+  portfolio : "https://humaissoftneer.vercel.app/",
+  stack     : ["React", "Next.js", "Node.js", "Express", "MongoDB", "Python"],
+  aiTools   : ["Google Gemini 2.5 Flash", "Gemini API"],
+  currently : "Merging AI intelligence with scalable web applications",
+  openTo    : ["Internships", "Freelance Projects", "Open Source Collaboration"],
+  funFact   : "I debug with console.log and I am not ashamed 😄",
 };
 ```
 
 ---
 
-## Tech Arsenal
+## Featured AI Projects
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/humaisali/AI-Career-Coach">
+        <img src="https://img.shields.io/badge/AI%20Career%20Coach-0A84FF?style=for-the-badge&logo=google&logoColor=white" />
+      </a>
+      <br/><br/>
+      <sub>Analyzes GitHub profiles, portfolios and resumes using <b>Gemini 2.5 Flash</b> to deliver recruiter-level career insights, skill radar charts, and job role predictions.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/humaisali/AI-Study-Assitent">
+        <img src="https://img.shields.io/badge/AI%20Study%20Assistant-00D4FF?style=for-the-badge&logo=bookstack&logoColor=black" />
+      </a>
+      <br/><br/>
+      <sub>Upload PDF, TXT, MD or PPTX study documents and get AI-generated explanations, smart summaries and interactive multiple-choice quizzes instantly.</sub>
+      <br/><br/>
+      <a href="https://ai-study-assistant-ashy.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-00D4FF?style=flat&logo=vercel&logoColor=black"/>
+      </a>
+      <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://github.com/humaisali/CodeSage-AI-Code-Explainer">
+        <img src="https://img.shields.io/badge/CodeSage%20AI-0A84FF?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      </a>
+      <br/><br/>
+      <sub>Paste any code snippet and instantly get step-by-step plain-English explanations, bug detection with severity ratings, and optimization suggestions.</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat&logo=google&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Tech Stack
 
 <div align="center">
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite&theme=dark" />
 
-**Backend & Databases**
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mysql,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,mysql&theme=dark" />
 
 **AI / ML**
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 
-**Dev Tools**
+**Tools & Platforms**
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 🎓 Academic Background
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=humaisali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&count_private=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humaisali&theme=tokyonight&hide_border=true&background=0d1117&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
+
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaisali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&langs_count=8&count_private=true" />
+
+</div>
+
+---
+
+## Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=humaisali&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0a84ff&line=0a84ff&point=ffffff&area=true&area_color=0a2a4a&custom_title=Humais%20Ali's%20Contribution%20Graph" width="98%" />
+</div>
+
+---
+
+## Academic Background
 
 <div align="center">
 
 | University | Degree | Status |
-|:---|:---|:---|
-| **UET Mardan** | **B.Sc. Software Engineering** | **6th Semester** |
+|:---:|:---:|:---:|
+| **UET Mardan** | **B.Sc. Software Engineering** | **6th Semester - Active** |
 
 </div>
 
@@ -90,87 +152,48 @@ const humaisAli = {
 
 | Category | Subjects |
 |:---|:---|
-| **Programming** | C, C++, OOP, Data Structures & Algorithms, Design And Analysis of Algorithm |
-| **Systems** | Operating Systems (Linux), CCN |
-| **Software Engg.** | Intro to Software Engineering, SDA, SCD |
-| **Data** | Database Systems (SQL) |
-| **6th Sem (Current)** | Software Project Management · Web Engineering · Machine Learning · Software Quality Engineering |
+| **Programming** | C, C++, OOP, Data Structures & Algorithms, Design & Analysis of Algorithms |
+| **Systems** | Operating Systems (Linux), Computer & Communication Networks |
+| **Software Engg.** | Intro to SE, Software Design & Architecture, Software Construction & Development |
+| **Data** | Database Systems (SQL), MongoDB |
+| **6th Sem (Current)** | Machine Learning · Web Engineering · Software Project Management · Software Quality Engineering |
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=HumaisAli&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&text_color=c9d1d9&count_private=true&rank_icon=github" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HumaisAli&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=ff6b35&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=c9d1d9" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HumaisAli&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="52%"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-
-
-## Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HumaisAli&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=0a84ff&point=ff6b35&area=true&area_color=0a2a4a" width="95%" />
-</div>
 
 ---
 
 ## Currently Leveling Up
 
 ```
-  Machine Learning       ████████████░░░░  75%   Active in coursework & projects
-  React.js/ Full Stack   ███████████░░░░░  70%   Building real-world apps
+  Google Gemini AI       ████████████████  85%   Shipping AI-powered production apps
+  React / Full Stack     ██████████████░░  80%   Building real-world projects
+  Machine Learning       ████████████░░░░  70%   Active in coursework & research
   LeetCode DSA           ████████░░░░░░░░  55%   Daily grind mode ON
-  AI + Web Integration   ██████░░░░░░░░░░  40%   Bridging ML with Web Dev
+  Next.js                ███████░░░░░░░░░  45%   Leveling up fast
 ```
 
 ---
 
-## Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## Let's Connect
-
 <div align="center">
 
-*Open to collaborations, freelance projects, and tech conversations!*
+*MERN Stack Developer - Open to Freelance Projects, Internships & Collaborations*
 
 <br/>
 
-<a href="www.linkedin.com/in/humaisaliskytechdeveloper">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+<a href="https://humaissoftneer.vercel.app/">
+  <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-0A84FF?style=for-the-badge&logo=vercel&logoColor=white" height="38" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/humaisaliskytechdeveloper">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:humaisali.uetm282@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="38" />
 </a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a84ff,50:0a2a4a,100:050709&height=100&section=footer" />
