@@ -110,11 +110,9 @@ const humaisAli = {
 
 </div>
 
+<!-- 
 ---
 
-
-
-<!-- 
 ## GitHub Stats
 
 <div align="center">
