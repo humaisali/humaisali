@@ -114,7 +114,7 @@ const humaisAli = {
 
 ## GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=humaisali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&count_private=true&rank_icon=github&include_all_commits=true" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=humaisali&theme=tokyonight&hide_border=true&background=0d1117&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
@@ -123,7 +123,7 @@ const humaisAli = {
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaisali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&langs_count=8&count_private=true" />
 
-</div>
+</div> -->
 
 ---
 
