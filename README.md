@@ -110,7 +110,7 @@ const humaisAli = {
 
 </div>
 
-<!-- 
+
 ---
 
 ## GitHub Stats
@@ -124,7 +124,7 @@ const humaisAli = {
 
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaisali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&langs_count=8&count_private=true" />
 
-</div> -->
+</div>
 
 ---
 
