@@ -31,9 +31,9 @@
 
 > **Merging AI intelligence with scalable web applications.**
 
-I am a **MERN Stack Developer** and a **Software Engineering student** at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
+I am a **MERN Stack Developer** and a **Software Engineering student** (6th Semester) at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
 
-- **Currently building:** Production-ready applications using MERN Stack and LLM API's.
+- **Currently building:** Production-ready applications using Next.js and Google Gemini.
 - **Leveling up on:** Machine Learning, Data Structures & Algorithms, and Advanced React Patterns.
 - **Open to:** Internships, Freelance Projects, and Open Source Collaborations.
 - **Fun fact:** I debug with `console.log` and I am not ashamed.
@@ -59,17 +59,17 @@ Here are a few of the projects I am most proud of. They highlight my ability to 
 <div align="center">
 
 <a href="https://github.com/humaisali/AI-Career-Coach">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=AI-Career-Coach&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=AI-Career-Coach&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
 </a>
 <a href="https://github.com/humaisali/GitMentor">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=GitMentor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=GitMentor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
 </a>
 <br/>
 <a href="https://github.com/humaisali/CodeSage-AI-Code-Explainer">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=CodeSage-AI-Code-Explainer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=CodeSage-AI-Code-Explainer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
 </a>
 <a href="https://github.com/humaisali/Nextalk">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=Nextalk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=Nextalk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
 </a>
 
 </div>
