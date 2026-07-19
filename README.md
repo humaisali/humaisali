@@ -1,5 +1,5 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050709,50:0a2a4a,100:0a84ff&height=250&section=header&text=Hi%20there,%20I'm%20Humais%20Ali!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast&descAlignY=55&descSize=20&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050709,50:0a2a4a,100:0a84ff&height=250&section=header&text=Hi%20there,%20I'm%20Humais%20Ali!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Enthusiast&descAlignY=55&descSize=20&fontAlign=50" />
 
 <div align="center">
   
@@ -58,23 +58,13 @@ Here are a few of the projects I am most proud of. They highlight my ability to 
 
 <div align="center">
 
-<a href="https://github.com/humaisali/AI-Career-Coach">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=AI-Career-Coach&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
-</a>
-<a href="https://github.com/humaisali/GitMentor">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=GitMentor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
-</a>
-<br/>
-<a href="https://github.com/humaisali/CodeSage-AI-Code-Explainer">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=CodeSage-AI-Code-Explainer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
-</a>
-<a href="https://github.com/humaisali/Nextalk">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=Nextalk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" width="48%" />
-</a>
+| <a href="https://github.com/humaisali/AI-Career-Coach"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=AI-Career-Coach&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" /></a> | <a href="https://github.com/humaisali/GitMentor"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=GitMentor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" /></a> |
+| :---: | :---: |
+| <a href="https://github.com/humaisali/CodeSage-AI-Code-Explainer"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=CodeSage-AI-Code-Explainer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" /></a> | <a href="https://github.com/humaisali/Nextalk"><img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=Nextalk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff&v=1" /></a> |
 
 </div>
 
-*(Note: Click on any card to view the repository!)*
+
 
 ---
 
@@ -95,10 +85,11 @@ Consistency and tracking my coding habits are important to me. Here is a snapsho
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=humaisali&theme=tokyonight&hide_border=true&background=0d1117&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
 
 <br/><br/>
+</div>
 
+## Contribution Graph
 <!-- Contribution Snake Animation -->
 <img src="https://raw.githubusercontent.com/humaisali/humaisali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-</div>
 
 
 <!-- Footer Banner -->
