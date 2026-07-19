@@ -31,9 +31,9 @@
 
 > **Merging AI intelligence with scalable web applications.**
 
-I am a **MERN Stack Developer** and a **Software Engineering student** (6th Semester) at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
+I am a **MERN Stack Developer** and a **Software Engineering student** at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
 
-- **Currently building:** Production-ready applications using Next.js and Google Gemini.
+- **Currently building:** Production-ready applications using MERN Stack and LLM API's.
 - **Leveling up on:** Machine Learning, Data Structures & Algorithms, and Advanced React Patterns.
 - **Open to:** Internships, Freelance Projects, and Open Source Collaborations.
 - **Fun fact:** I debug with `console.log` and I am not ashamed.
