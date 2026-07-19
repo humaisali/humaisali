@@ -61,15 +61,15 @@ Here are a few of the projects I am most proud of. They highlight my ability to 
 <a href="https://github.com/humaisali/AI-Career-Coach">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=AI-Career-Coach&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
 </a>
-<a href="https://github.com/humaisali/AI-Study-Assitent">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=AI-Study-Assitent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
+<a href="https://github.com/humaisali/GitMentor">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=GitMentor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
 </a>
-
+<br/>
 <a href="https://github.com/humaisali/CodeSage-AI-Code-Explainer">
   <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=CodeSage-AI-Code-Explainer&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
 </a>
-<a href="https://github.com/humaisali/HumaisA.-Portfolio">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=HumaisA.-Portfolio&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
+<a href="https://github.com/humaisali/Nextalk">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=humaisali&repo=Nextalk&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&icon_color=0a84ff" width="48%" />
 </a>
 
 </div>
