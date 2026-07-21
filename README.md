@@ -75,15 +75,14 @@ Consistency and tracking my coding habits are important to me. Here is a snapsho
 <div align="center">
 
 <!-- GitHub General Stats -->
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=humaisali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&count_private=true&rank_icon=github&include_all_commits=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=humaisali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
 <!-- Top Languages -->
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=humaisali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&langs_count=6&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=humaisali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0a84ff&text_color=c9d1d9&langs_count=6" />
 
 <br/><br/>
 
 <!-- GitHub Streak -->
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=humaisali&theme=tokyonight&hide_border=true&background=0d1117&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
-
+<img height="165" src="https://streak-stats.demolab.com/?user=humaisali&theme=tokyonight&hide_border=true&background=0d1117&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
 <br/><br/>
 </div>
 
