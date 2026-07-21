@@ -84,12 +84,16 @@ Consistency and tracking my coding habits are important to me. Here is a snapsho
 <!-- GitHub Streak -->
 <img height="165" src="https://streak-stats.demolab.com/?user=humaisali&theme=tokyonight&hide_border=true&background=0d1117&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
 <br/><br/>
+
+<!--Contribution Graph-->
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaisali&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0a84ff&line=0a84ff&point=ffffff" alt="Activity Graph" />
 </div>
 
-## Contribution Graph
+---
+
+## Contribution's in the Last Year
 <!-- Contribution Snake Animation -->
 <img src="https://raw.githubusercontent.com/humaisali/humaisali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-
 
 <!-- Footer Banner -->
 <div align="center">
