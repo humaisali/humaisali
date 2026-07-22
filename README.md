@@ -1,15 +1,12 @@
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050709,50:0a2a4a,100:0a84ff&height=250&section=header&text=Hi%20there,%20I'm%20Humais%20Ali!&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20MERN%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Enthusiast&descAlignY=55&descSize=20&fontAlign=50" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="banner-light.svg?v=1">
+  <img width="100%" src="banner.svg?v=1" alt="Humais Ali — Full Stack Developer" />
+</picture>
 
 <div align="center">
-  
-<!-- Dynamic Typing Effect -->
-<a href="https://github.com/humaisali">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&height=50&lines=Building+AI-Powered+Web+Applications;MERN+Stack+%7C+Next.js+%7C+Gemini+AI;Software+Engineering+%40+UET+Mardan;Full+Stack+Developer+%40+SkyTech+Developers;Open+to+Internships+%26+Collaborations" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
+<br/>
 <!-- Contact Links -->
 <a href="https://humaissoftneer.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat-square&logo=vercel&logoColor=%23ffffff" alt="Portfolio" height="45"/>
@@ -25,18 +22,29 @@
 
 </div>
 
-<br/>
+---
+
+<div display=flex >
+<div>
+<img src="lanyard.svg?v=1" width="200" align="right" alt="Humais Ali developer ID badge" />
+</div>
+<div>
 
 ## About Me
 
-> **Merging AI intelligence with scalable web applications.**
+> $\color{#0A84FF}\textbf{\textsf{Merging AI intelligence with scalable web applications.}}$
 
-I am a **MERN Stack Developer** and a **Software Engineering student** (6th Semester) at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
+I am a $\color{#0A84FF}\textbf{\textsf{MERN Stack Developer}}$ and a $\color{#0A84FF}\textbf{\textsf{Software Engineering student}}$ (6th Semester) at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
 
-- **Currently building:** Production-ready applications using Next.js and Google Gemini.
-- **Leveling up on:** Machine Learning, Data Structures & Algorithms, and Advanced React Patterns.
-- **Open to:** Internships, Freelance Projects, and Open Source Collaborations.
-- **Fun fact:** I debug with `console.log` and I am not ashamed.
+- $\color{#0A84FF}\textbf{\textsf{Currently building:}}$ Production-ready applications using Next.js and Google Gemini.
+- $\color{#0A84FF}\textbf{\textsf{Leveling up on:}}$ Machine Learning, Data Structures & Algorithms, and Advanced React Patterns.
+- $\color{#0A84FF}\textbf{\textsf{Open to:}}$ Internships, Freelance Projects, and Open Source Collaborations.
+- $\color{#0A84FF}\textbf{\textsf{Fun fact:}}$ I debug with `console.log` and I am not ashamed.
+</div>
+
+<br clear="both"/>
+
+</div>
 
 ---
 
