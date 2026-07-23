@@ -104,8 +104,3 @@ Consistency and tracking my coding habits are important to me. Here is a snapsho
 
 ---
 
-## Contribution's in the Last Year
-<!-- Contribution Snake Animation -->
-<img src="https://raw.githubusercontent.com/humaisali/humaisali/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
-
----
