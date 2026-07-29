@@ -83,24 +83,20 @@ Consistency and tracking my coding habits are important to me. Here is a snapsho
 <div align="center">
 
 <!-- GitHub General Stats -->
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=humaisali&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" /> -->
-<!-- Top Languages -->
-<!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humaisali&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&text_color=c9d1d9&langs_count=6" /> -->
-
-<!-- GitHub General Stats -->
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=humaisali&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=humaisali&show_icons=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&icon_color=0a84ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&v=2" />
 <!-- Top Languages -->
 <!-- <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=humaisali&layout=compact&hide_border=false&border_color=30363d&bg_color=161b22&title_color=0a84ff&text_color=c9d1d9&langs_count=6" /> -->
 
-<!-- <br/><br/> -->
-
 <!-- GitHub Streak -->
-<img height="165" src="https://streak-stats.demolab.com/?user=humaisali&theme=tokyonight&hide_border=false&border=30363d&background=161b22&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" />
+<img height="165" src="https://github-readme-streak-stats-eight.vercel.app/?user=humaisali&theme=tokyonight&hide_border=false&border=30363d&background=161b22&ring=0a84ff&fire=0a84ff&currStreakLabel=0a84ff&sideLabels=c9d1d9&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff&v=2" />
 <br/><br/>
 
 <!--Contribution Graph-->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaisali&theme=tokyo-night&hide_border=false&border_color=30363d&bg_color=161b22&color=0a84ff&line=0a84ff&point=ffffff" alt="Activity Graph" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaisali&theme=tokyo-night&hide_border=false&border_color=30363d&bg_color=161b22&color=0a84ff&line=0a84ff&point=ffffff&v=2" alt="Activity Graph" />
 </div>
 
 ---
+---
+
+
 
