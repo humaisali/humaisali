@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="ihIKOy-BPaukHZgzr-ORgNq4AY_cLQ_Ew7YGY5wM0MU" />
+
 <!-- Header Banner -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banner.svg?v=1">
