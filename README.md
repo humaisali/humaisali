@@ -36,7 +36,7 @@
 
 > $\color{#0A84FF}\textbf{\textsf{Merging AI intelligence with scalable web applications.}}$
 
-I am a $\color{#0A84FF}\textbf{\textsf{MERN Stack Developer}}$ and a $\color{#0A84FF}\textbf{\textsf{Software Engineering student}}$ (6th Semester) at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
+I am a $\color{#0A84FF}\textbf{\textsf{MERN Stack Developer}}$ and a $\color{#0A84FF}\textbf{\textsf{Software Engineering student}}$ (Final Year) at UET Mardan, currently working at SkyTech Developers. I specialize in building real-world projects that integrate modern frontend frameworks with powerful backend services and AI tools.
 
 - $\color{#0A84FF}\textbf{\textsf{Currently building:}}$ Production-ready applications using Next.js and Google Gemini.
 - $\color{#0A84FF}\textbf{\textsf{Leveling up on:}}$ Machine Learning, Data Structures & Algorithms, and Advanced React Patterns.
