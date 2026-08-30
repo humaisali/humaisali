@@ -94,11 +94,15 @@ Consistency and tracking my coding habits are important to me. Here is a snapsho
 <br/><br/>
 
 <!--Contribution Graph-->
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaisali&theme=tokyo-night&hide_border=false&border_color=30363d&bg_color=161b22&color=0a84ff&line=0a84ff&point=ffffff&v=2" alt="Activity Graph" />
+<!-- <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=humaisali&theme=tokyo-night&hide_border=false&border_color=30363d&bg_color=161b22&color=0a84ff&line=0a84ff&point=ffffff&v=2" alt="Activity Graph" /> -->
+
+<p align="center">
+  <img
+    width="90%"
+    src="https://raw.githubusercontent.com/humaisali/humaisali/output/activity-graph.svg"
+    alt="Humais Ali's GitHub Activity Graph"
+  />
+</p>
 </div>
 
 ---
----
-
-
-
