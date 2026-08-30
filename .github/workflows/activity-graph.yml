@@ -22,7 +22,7 @@ jobs:
           username: humaisali
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: dist/activity-graph.svg
-          options: "bg_color=161b22&border_color=30363d&color=c9d1d9&title_color=0a84ff&line=0a84ff&point=ffffff&hide_border=false&radius=6&height=420&days=31&grid=true&custom_title=Humais%27%20GitHub%20Activity"
+          options: "bg_color=161b22&border_color=30363d&color=c9d1d9&title_color=0a84ff&line=0a84ff&point=ffffff&hide_border=false&radius=6&height=550&days=31&grid=true&custom_title=Humais%27%20GitHub%20Activity"
 
       - name: Publish graph
         uses: crazy-max/ghaction-github-pages@v3.1.0
