@@ -10,7 +10,7 @@
 <div align="center">
 <br/>
 <!-- Contact Links -->
-<a href="https://humaissoftneer.vercel.app/" target="_blank">
+<a href="https://engineerhumais.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A84FF?style=flat-square&logo=vercel&logoColor=%23ffffff" alt="Portfolio" height="45"/>
 </a> 
 &nbsp;&nbsp;
